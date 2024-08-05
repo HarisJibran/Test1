@@ -1,0 +1,1820 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          562.0,
+          909.0
+        ],
+        [
+          604.0,
+          909.0
+        ],
+        [
+          604.0,
+          1003.0
+        ],
+        [
+          562.0,
+          1003.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          604.0,
+          897.0
+        ],
+        [
+          647.0,
+          897.0
+        ],
+        [
+          647.0,
+          990.0
+        ],
+        [
+          604.0,
+          990.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          648.0,
+          887.0
+        ],
+        [
+          680.0,
+          887.0
+        ],
+        [
+          680.0,
+          976.0
+        ],
+        [
+          648.0,
+          976.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          639.0,
+          755.0
+        ],
+        [
+          676.0,
+          755.0
+        ],
+        [
+          676.0,
+          846.0
+        ],
+        [
+          639.0,
+          846.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          604.0,
+          760.0
+        ],
+        [
+          640.0,
+          760.0
+        ],
+        [
+          640.0,
+          851.0
+        ],
+        [
+          604.0,
+          851.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          555.0,
+          763.0
+        ],
+        [
+          602.0,
+          763.0
+        ],
+        [
+          602.0,
+          858.0
+        ],
+        [
+          555.0,
+          858.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          511.0,
+          898.0
+        ],
+        [
+          561.0,
+          898.0
+        ],
+        [
+          561.0,
+          1011.0
+        ],
+        [
+          511.0,
+          1011.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          463.0,
+          908.0
+        ],
+        [
+          513.0,
+          908.0
+        ],
+        [
+          513.0,
+          1022.0
+        ],
+        [
+          463.0,
+          1022.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          401.0,
+          915.0
+        ],
+        [
+          461.0,
+          915.0
+        ],
+        [
+          461.0,
+          1022.0
+        ],
+        [
+          401.0,
+          1022.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          388.0,
+          777.0
+        ],
+        [
+          455.0,
+          777.0
+        ],
+        [
+          455.0,
+          893.0
+        ],
+        [
+          388.0,
+          893.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          456.0,
+          769.0
+        ],
+        [
+          512.0,
+          769.0
+        ],
+        [
+          512.0,
+          881.0
+        ],
+        [
+          456.0,
+          881.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          513.0,
+          760.0
+        ],
+        [
+          555.0,
+          760.0
+        ],
+        [
+          555.0,
+          868.0
+        ],
+        [
+          513.0,
+          868.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          676.0,
+          731.0
+        ],
+        [
+          721.0,
+          731.0
+        ],
+        [
+          721.0,
+          840.0
+        ],
+        [
+          676.0,
+          840.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          721.0,
+          724.0
+        ],
+        [
+          767.0,
+          724.0
+        ],
+        [
+          767.0,
+          832.0
+        ],
+        [
+          721.0,
+          832.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          766.0,
+          717.0
+        ],
+        [
+          803.0,
+          717.0
+        ],
+        [
+          803.0,
+          821.0
+        ],
+        [
+          766.0,
+          821.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          804.0,
+          729.0
+        ],
+        [
+          846.0,
+          729.0
+        ],
+        [
+          846.0,
+          814.0
+        ],
+        [
+          804.0,
+          814.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          846.0,
+          728.0
+        ],
+        [
+          884.0,
+          728.0
+        ],
+        [
+          884.0,
+          808.0
+        ],
+        [
+          846.0,
+          808.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          647.0,
+          612.0
+        ],
+        [
+          694.0,
+          612.0
+        ],
+        [
+          694.0,
+          707.0
+        ],
+        [
+          647.0,
+          707.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          615.0,
+          616.0
+        ],
+        [
+          647.0,
+          616.0
+        ],
+        [
+          647.0,
+          713.0
+        ],
+        [
+          615.0,
+          713.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 400Gx12",
+      "points": [
+        [
+          571.0,
+          616.0
+        ],
+        [
+          614.0,
+          616.0
+        ],
+        [
+          614.0,
+          717.0
+        ],
+        [
+          571.0,
+          717.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          382.0,
+          628.0
+        ],
+        [
+          457.0,
+          628.0
+        ],
+        [
+          457.0,
+          741.0
+        ],
+        [
+          382.0,
+          741.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          458.0,
+          618.0
+        ],
+        [
+          515.0,
+          618.0
+        ],
+        [
+          515.0,
+          737.0
+        ],
+        [
+          458.0,
+          737.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          515.0,
+          609.0
+        ],
+        [
+          572.0,
+          609.0
+        ],
+        [
+          572.0,
+          728.0
+        ],
+        [
+          515.0,
+          728.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          692.0,
+          597.0
+        ],
+        [
+          737.0,
+          597.0
+        ],
+        [
+          737.0,
+          704.0
+        ],
+        [
+          692.0,
+          704.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          737.0,
+          596.0
+        ],
+        [
+          773.0,
+          596.0
+        ],
+        [
+          773.0,
+          696.0
+        ],
+        [
+          737.0,
+          696.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          774.0,
+          590.0
+        ],
+        [
+          810.0,
+          590.0
+        ],
+        [
+          810.0,
+          691.0
+        ],
+        [
+          774.0,
+          691.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          812.0,
+          603.0
+        ],
+        [
+          855.0,
+          603.0
+        ],
+        [
+          855.0,
+          687.0
+        ],
+        [
+          812.0,
+          687.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          856.0,
+          602.0
+        ],
+        [
+          890.0,
+          602.0
+        ],
+        [
+          890.0,
+          683.0
+        ],
+        [
+          856.0,
+          683.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          385.0,
+          494.0
+        ],
+        [
+          447.0,
+          494.0
+        ],
+        [
+          447.0,
+          595.0
+        ],
+        [
+          385.0,
+          595.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          449.0,
+          491.0
+        ],
+        [
+          510.0,
+          491.0
+        ],
+        [
+          510.0,
+          587.0
+        ],
+        [
+          449.0,
+          587.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          512.0,
+          490.0
+        ],
+        [
+          559.0,
+          490.0
+        ],
+        [
+          559.0,
+          581.0
+        ],
+        [
+          512.0,
+          581.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          559.0,
+          486.0
+        ],
+        [
+          605.0,
+          486.0
+        ],
+        [
+          605.0,
+          575.0
+        ],
+        [
+          559.0,
+          575.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          606.0,
+          485.0
+        ],
+        [
+          647.0,
+          485.0
+        ],
+        [
+          647.0,
+          571.0
+        ],
+        [
+          606.0,
+          571.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          675.0,
+          482.0
+        ],
+        [
+          725.0,
+          482.0
+        ],
+        [
+          725.0,
+          570.0
+        ],
+        [
+          675.0,
+          570.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          725.0,
+          480.0
+        ],
+        [
+          767.0,
+          480.0
+        ],
+        [
+          767.0,
+          568.0
+        ],
+        [
+          725.0,
+          568.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          767.0,
+          476.0
+        ],
+        [
+          809.0,
+          476.0
+        ],
+        [
+          809.0,
+          564.0
+        ],
+        [
+          767.0,
+          564.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          810.0,
+          475.0
+        ],
+        [
+          849.0,
+          475.0
+        ],
+        [
+          849.0,
+          560.0
+        ],
+        [
+          810.0,
+          560.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          849.0,
+          474.0
+        ],
+        [
+          888.0,
+          474.0
+        ],
+        [
+          888.0,
+          559.0
+        ],
+        [
+          849.0,
+          559.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          681.9259259259259,
+          860.6296296296296
+        ],
+        [
+          726.9259259259259,
+          860.6296296296296
+        ],
+        [
+          726.9259259259259,
+          969.6296296296296
+        ],
+        [
+          681.9259259259259,
+          969.6296296296296
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          730.074074074074,
+          853.9629629629629
+        ],
+        [
+          775.074074074074,
+          853.9629629629629
+        ],
+        [
+          775.074074074074,
+          962.9629629629629
+        ],
+        [
+          730.074074074074,
+          962.9629629629629
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 800Gx12",
+      "points": [
+        [
+          775.2592592592592,
+          848.7777777777777
+        ],
+        [
+          818.7845303867404,
+          848.7777777777777
+        ],
+        [
+          818.7845303867404,
+          951.9337016574585
+        ],
+        [
+          775.2592592592592,
+          951.9337016574585
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          816.565445026178,
+          854.130890052356
+        ],
+        [
+          857.0261780104712,
+          854.130890052356
+        ],
+        [
+          857.0261780104712,
+          941.8429319371728
+        ],
+        [
+          816.565445026178,
+          941.8429319371728
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Chilli Garlic Sauce 400Gx12",
+      "points": [
+        [
+          858.5968586387435,
+          847.0785340314136
+        ],
+        [
+          894.1989528795812,
+          847.0785340314136
+        ],
+        [
+          894.1989528795812,
+          933.9895287958116
+        ],
+        [
+          858.5968586387435,
+          933.9895287958116
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          372.84337349397595,
+          7.180722891566308
+        ],
+        [
+          451.15662650602417,
+          7.180722891566308
+        ],
+        [
+          451.15662650602417,
+          157.7831325301205
+        ],
+        [
+          372.84337349397595,
+          157.7831325301205
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          439.51004016064263,
+          13.063075832742772
+        ],
+        [
+          517.8232931726909,
+          13.063075832742772
+        ],
+        [
+          517.8232931726909,
+          163.66548547129696
+        ],
+        [
+          439.51004016064263,
+          163.66548547129696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          515.000236239074,
+          32.142857142857146
+        ],
+        [
+          579.7619047619048,
+          32.142857142857146
+        ],
+        [
+          579.7619047619048,
+          167.64705882352942
+        ],
+        [
+          515.000236239074,
+          167.64705882352942
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          575.7845499645641,
+          36.904761904761905
+        ],
+        [
+          636.9047619047619,
+          36.904761904761905
+        ],
+        [
+          636.9047619047619,
+          174.50980392156862
+        ],
+        [
+          575.7845499645641,
+          174.50980392156862
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          639.4750261550403,
+          38.69047619047618
+        ],
+        [
+          709.5238095238095,
+          38.69047619047618
+        ],
+        [
+          709.5238095238095,
+          176.7857142857143
+        ],
+        [
+          639.4750261550403,
+          176.7857142857143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          707.6231743031885,
+          41.65343915343913
+        ],
+        [
+          777.6719576719578,
+          41.65343915343913
+        ],
+        [
+          777.6719576719578,
+          179.7486772486772
+        ],
+        [
+          707.6231743031885,
+          179.7486772486772
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          772.8083594883736,
+          47.579365079365054
+        ],
+        [
+          842.8571428571429,
+          47.579365079365054
+        ],
+        [
+          842.8571428571429,
+          185.67460317460313
+        ],
+        [
+          772.8083594883736,
+          185.67460317460313
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          844.7552447552448,
+          60.83916083916084
+        ],
+        [
+          893.7062937062938,
+          60.83916083916084
+        ],
+        [
+          893.7062937062938,
+          190.2097902097902
+        ],
+        [
+          844.7552447552448,
+          190.2097902097902
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          374.24197489257733,
+          182.16129032258067
+        ],
+        [
+          457.4301075268817,
+          182.16129032258067
+        ],
+        [
+          457.4301075268817,
+          321.6783216783217
+        ],
+        [
+          374.24197489257733,
+          321.6783216783217
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          463.0531637037662,
+          185.38709677419357
+        ],
+        [
+          534.8494623655913,
+          185.38709677419357
+        ],
+        [
+          534.8494623655913,
+          320.979020979021
+        ],
+        [
+          463.0531637037662,
+          320.979020979021
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          534.8494623655913,
+          188.61290322580646
+        ],
+        [
+          598.6013986013986,
+          188.61290322580646
+        ],
+        [
+          598.6013986013986,
+          320.27972027972027
+        ],
+        [
+          534.8494623655913,
+          320.27972027972027
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          595.2209958715982,
+          193.7062937062937
+        ],
+        [
+          661.5384615384615,
+          193.7062937062937
+        ],
+        [
+          661.5384615384615,
+          321.6783216783217
+        ],
+        [
+          595.2209958715982,
+          321.6783216783217
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          659.5566602072626,
+          193.7062937062937
+        ],
+        [
+          721.6783216783217,
+          193.7062937062937
+        ],
+        [
+          721.6783216783217,
+          322.3776223776224
+        ],
+        [
+          659.5566602072626,
+          322.3776223776224
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          724.890625,
+          199.890625
+        ],
+        [
+          775.671875,
+          199.890625
+        ],
+        [
+          775.671875,
+          324.109375
+        ],
+        [
+          724.890625,
+          324.109375
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          777.234375,
+          204.578125
+        ],
+        [
+          831.140625,
+          204.578125
+        ],
+        [
+          831.140625,
+          324.890625
+        ],
+        [
+          777.234375,
+          324.890625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          831.140625,
+          203.796875
+        ],
+        [
+          888.953125,
+          203.796875
+        ],
+        [
+          888.953125,
+          323.328125
+        ],
+        [
+          831.140625,
+          323.328125
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          381.15942028985506,
+          350.7246376811594
+        ],
+        [
+          479.7101449275362,
+          350.7246376811594
+        ],
+        [
+          479.7101449275362,
+          465.9420289855072
+        ],
+        [
+          381.15942028985506,
+          465.9420289855072
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          477.53623188405794,
+          348.5507246376811
+        ],
+        [
+          546.3768115942029,
+          348.5507246376811
+        ],
+        [
+          546.3768115942029,
+          463.76811594202894
+        ],
+        [
+          477.53623188405794,
+          463.76811594202894
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          546.3768115942029,
+          342.75362318840575
+        ],
+        [
+          613.7681159420289,
+          342.75362318840575
+        ],
+        [
+          613.7681159420289,
+          459.42028985507244
+        ],
+        [
+          546.3768115942029,
+          459.42028985507244
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          613.0434782608695,
+          344.927536231884
+        ],
+        [
+          671.0144927536231,
+          344.927536231884
+        ],
+        [
+          671.0144927536231,
+          457.97101449275357
+        ],
+        [
+          613.0434782608695,
+          457.97101449275357
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          672.463768115942,
+          344.2028985507246
+        ],
+        [
+          728.2608695652174,
+          344.2028985507246
+        ],
+        [
+          728.2608695652174,
+          458.695652173913
+        ],
+        [
+          672.463768115942,
+          458.695652173913
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          726.8115942028985,
+          344.927536231884
+        ],
+        [
+          781.159420289855,
+          344.927536231884
+        ],
+        [
+          781.159420289855,
+          452.89855072463763
+        ],
+        [
+          726.8115942028985,
+          452.89855072463763
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          779.2727272727273,
+          345.33333333333337
+        ],
+        [
+          833.2121212121211,
+          345.33333333333337
+        ],
+        [
+          833.2121212121211,
+          451.39393939393943
+        ],
+        [
+          779.2727272727273,
+          451.39393939393943
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "Tomato Ketchup 800Gx12",
+      "points": [
+        [
+          831.3939393939394,
+          343.51515151515156
+        ],
+        [
+          881.090909090909,
+          343.51515151515156
+        ],
+        [
+          881.090909090909,
+          450.7878787878788
+        ],
+        [
+          831.3939393939394,
+          450.7878787878788
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "questionImage_888_107220_52_-1_9_-1.jpg",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 1024,
+  "text": ""
+}
